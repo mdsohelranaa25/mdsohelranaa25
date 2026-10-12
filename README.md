@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25&height=220&section=header&text=Hi%2C%20I'm%20Sohel%20Rana&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Competitive%20Programmer%20%7C%20CSE%20Student%20%7C%20AI%2FML%20Explorer&descAlignY=58&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25&height=220&section=header&text=Hi%2C%20I'm%20Sohel%20Rana&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Competitive%20Programmer%20%7C%20IT%20Student%20%7C%20AI%2FML%20Explorer&descAlignY=58&descSize=18)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Competitive+Programmer+%F0%9F%9A%80;C+%7C+C%2B%2B+%7C+Java+%7C+Python;Web+Developer+%28HTML%2C+CSS%2C+JS%29;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Always+learning+something+new" alt="Typing SVG" />
@@ -20,7 +20,7 @@
 
 ## 👨‍💻 আমার সম্পর্কে
 
-- 🎓 University তে **CSE / Engineering** পড়ছি
+- 🎓 University তে **Information Technology (IT)** পড়ছি
 - 🧠 **Competitive programming** আমার সবচেয়ে প্রিয় নেশা, Codeforces এ active: [`_Sohel_`](https://codeforces.com/profile/_Sohel_)
 - 🤖 এখন **AI & Machine Learning** explore করার চেষ্টা করছি
 - 🌐 Web development এর basics জানি: HTML, CSS, JavaScript
