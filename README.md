@@ -18,14 +18,14 @@
 
 ---
 
-## 👨‍💻 আমার সম্পর্কে
+## 👨‍💻 About Me
 
-- 🎓 University তে **Information Technology (IT)** পড়ছি
-- 🧠 **Competitive programming** আমার সবচেয়ে প্রিয় নেশা, Codeforces এ active: [`_Sohel_`](https://codeforces.com/profile/_Sohel_)
-- 🤖 এখন **AI & Machine Learning** explore করার চেষ্টা করছি
-- 🌐 Web development এর basics জানি: HTML, CSS, JavaScript
-- 💬 আমাকে জিজ্ঞেস করতে পারো: problem solving, C++, Java, Python
-- ⚡ Fun fact: বাংলা আর English মিশিয়ে কথা বলি 😄
+- 🎓 Studying **Information Technology (IT)** at **Jahangirnagar University**
+- 🧠 **Competitive programming** is my biggest passion, active on Codeforces: [`_Sohel_`](https://codeforces.com/profile/_Sohel_)
+- 🤖 Currently exploring **AI & Machine Learning**
+- 🌐 Comfortable with web development basics: HTML, CSS, JavaScript
+- 💬 Ask me about: problem solving, C++, Java, Python
+- 🏗️ Building my university final year project: **Student Management System**
 
 ---
 
@@ -76,13 +76,13 @@
 
 ## 🚀 Featured Projects
 
-| Project | বিবরণ | Tech |
-|---------|--------|------|
-| [**Student Management System**](https://github.com/mdsohelranaa25/Student_ManageMent_System) | University final year project: ছাত্রছাত্রীদের তথ্য ব্যবস্থাপনার একটা চালু system (🚧 development চলছে) | `TECH_STACK` |
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Student Management System**](https://github.com/mdsohelranaa25/Student_ManageMent_System) | University final year project: a working system to manage student records (🚧 under active development) | `TECH_STACK` |
 
 ---
 
-## 📫 যোগাযোগ
+## 📫 Get in Touch
 
 - 📧 Email: [Mdsohelranaa25@gmail.com](mailto:Mdsohelranaa25@gmail.com)
 - 💼 LinkedIn: [Sohel Rana](https://www.linkedin.com/in/sohel-rana-75075134b/)
